@@ -4,6 +4,3 @@ node_modules/
 *.log
 .DS_Store
 
-# Exercise media — run `npm run fetch-media` to download (~140 MB)
-public/img/
-public/gif/
